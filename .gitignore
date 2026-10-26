@@ -1,0 +1,5 @@
+node_modules
+storybook-static
+*.log
+preview-stats.*.json
+trace-*.txt

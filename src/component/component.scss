@@ -1,0 +1,8 @@
+@use '../styles/global';
+
+.demo {
+  background: global.$demo-background;
+  color: global.$demo-color;
+  padding: 2px 8px;
+  border-radius: 8px;
+}
